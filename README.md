@@ -4,14 +4,11 @@
 admin@ahmedawji:~$ ./fetch_profile.sh --ascii
 ```
 
-```text
-    _    _                               _   _            _ _ 
-   / \  | |__  _ __ ___   ___  __| |   / \__      _(_|_)
-  / _ \ | '_ \| '_ ` _ \ / _ \/ _` |  / _ \ \ /\ / / | |
- / ___ \| | | | | | | | |  __/ (_| | / ___ \ V  V /| | |
-/_/   \_\_| |_|_| |_| |_|\___|\__,_|/_/   \_\_/\_/ _/ |/
-                                                    |__/ 
-```
+<div align="center">
+  <img src="./banner.svg" alt="Ahmed Awji Banner" width="100%" />
+  <br />
+  <img src="./2d%20pixel%20agents.gif" alt="2D Pixel Agents Coding" />
+</div>
 
 ```console
 admin@ahmedawji:~$ cat about_me.txt
@@ -19,7 +16,7 @@ admin@ahmedawji:~$ cat about_me.txt
 
 > **Results-driven Frontend Engineer** with 3+ years of experience bridging the gap between complex enterprise business logic and high-performance user interfaces. Proven track record of architecting deep domain-specific tools for pharmaceutical compliance and network automation. Advanced practitioner of AI-assisted development workflows to accelerate feature shipping velocity and optimize overall performance architecture.
 
-*   💼 **Senior Frontend Engineer** @ [CloudGate Consulting](https://cgcnets.com/)
+*   💼 **Frontend Engineer** @ [CloudGate Consulting](https://cgcnets.com/)
 *   🏗️ **Current Work:** Co-engineered **CARTER** (Cartography of Entity Relationships) — a production-grade UI tool visualizing thousands of interconnected objects, fields, and workflows for Sanofi.
 *   ⚡ **Specialty:** React, TypeScript, Next.js, and high-performance rendering optimization.
 *   🎓 **Education:** BSc in Computer Science, Lebanese International University (GPA: 3.7/4.0)
@@ -40,8 +37,17 @@ admin@ahmedawji:~$ ./get_status.sh --github
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadawji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ahmed's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadawji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ahmadawji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ahmed's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmadawji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</div>
+
+
+## `> activity.graph`
+
+<div align="center">
+
+[![ahmadawji's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadawji&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ahmadawji/github-readme-activity-graph)
+
 </div>
 
 ```console
