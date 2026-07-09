@@ -7,7 +7,7 @@ admin@ahmedawji:~$ ./fetch_profile.sh --ascii
 <div align="center">
   <img src="./banner.svg" alt="Ahmed Awji Banner" width="100%" />
   <br />
-  <img src="./2d%20pixel%20agents.gif" alt="2D Pixel Agents Coding" />
+  <img src="./2d%20pixel%20agents.gif" alt="2D Pixel Agents Coding" width="100%"/>
 </div>
 
 ```console
